@@ -75,7 +75,7 @@ In the paper, we propose the **conditional truncation trick** for StyleGAN. If y
 
 The implementation is quite easy. The relevant lines of code can be found here:
 
-<https://github.com/konstantinjdobler/multi-conditional-stylegan/blob/main/training/networks.py#L245-L264>
+<https://github.com/konstantinjdobler/multi-conditional-stylegan/blob/5b9ec5f4701e6fa0182f87b7a24a0f4f33364f5e/training/networks.py#L245-L264>
 
 ## License
 
