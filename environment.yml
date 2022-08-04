@@ -1,0 +1,26 @@
+name: multi-conditional-stylegan
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - bs4
+  - pytorch
+  - wandb
+  - click
+  - pytorch
+  - pandas
+  - numpy
+  - psutil
+  - requests
+  - lxml
+  - tqdm
+  - tensorboard
+  - typing-extensions
+  - pillow
+  - scipy
+  - ninja 
+  - sentence-transformers
+  - pip:
+    - imageio-ffmpeg==0.4.5
+    - python-dotenv
+    - pyspng

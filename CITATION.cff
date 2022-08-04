@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Art Creation With Multi-Conditional StyleGANs"
+message: "If you use this software, please cite the paper from preferred-citation."
+type: software
+url: "https://github.com/konstantinjdobler/multiconditional-stylegan"
+authors:
+  - given-names: Konstantin
+    family-names: Dobler
+  - given-names: Florian
+    family-names: Hübscher
+  - given-names: Jan
+    family-names: Westphal
+  - given-names: Alejandro
+    family-names: Sierra-Múnera
+  - given-names: Gerard
+    family-names: Melo
+    name-particle: de
+  - given-names: Ralf
+    family-names: Krestel
+preferred-citation:
+  abbreviation: dobler2020multiconditional
+  type: conference-paper
+  authors:
+    - given-names: Konstantin
+      family-names: Dobler
+    - given-names: Florian
+      family-names: Hübscher
+    - given-names: Jan
+      family-names: Westphal
+    - given-names: Alejandro
+      family-names: Sierra-Múnera
+    - given-names: Gerard
+      family-names: Melo
+      name-particle: de
+    - given-names: Ralf
+      family-names: Krestel
+  booktitle: "Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}"
+  month: 7
+  start: 4936
+  end: 4942
+  title: "Art Creation With Multi-Conditional StyleGANs"
+  year: 2022
+  publisher: "International Joint Conferences on Artificial Intelligence Organization"
+  url: "https://doi.org/10.24963/ijcai.2022/684"
+  doi: "10.24963/ijcai.2022/684"
