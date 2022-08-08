@@ -5,7 +5,7 @@ The source code is based on [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-
 
 ## Setup Instructions
 
-In general, instructions are the same as for the original [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch/) code. For multi-conditional training, you will also need to supply a `prepared_dataset.json` file with the `--cond-path` flag to the `python train.py` command. The `prepared_dataset.json` is should contain the multi-conditions and have the following format:
+In general, instructions are the same as for the original [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch/) code. For multi-conditional training, you will also need to supply a `prepared_dataset.json` file with the `--cond-path` flag to the `python train.py` command. The `prepared_dataset.json` should contain the multi-conditions and have the following format:
 
 ```javascript
 {
